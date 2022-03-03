@@ -1,3 +1,7 @@
+## 2.0.6
+
+* Added support for unicode encoded VERSIONINFO
+
 ## 2.0.5
 
 * Removes dependency on `meta`.
